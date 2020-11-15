@@ -8,4 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-r-e&layout=compact&theme=radical&count_private=true)
 
-[![darodrig's 42 stats](https://badge42.herokuapp.com/api/stats/darodrig)](https://github.com/d-r-e)
+[![darodrig's 42 stats](https://badge42.herokuapp.com/api/stats/darodrig?privacyEmail=true)](https://github.com/d-r-e)
