@@ -11,5 +11,4 @@
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-r-e&langs_count=7&layout=compact&hide=jupyter%20notebook,objective-c,makefile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
- [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
+[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
