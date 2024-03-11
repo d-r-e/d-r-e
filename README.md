@@ -1,6 +1,6 @@
 # _darodrig_ 
 
-### My latest achievments
+### My latest achievements
 
 - Co-author of the [Cybersecurity Bootcamp](https://projects.intra.42.fr/projects/cybersecurity) 💻 from the 42 cursus.
 - Recently created the [RNCP Planner](https://rncp.hacku.org) ([Source](https://github.com/d-r-e/rncp.git))
